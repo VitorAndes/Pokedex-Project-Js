@@ -2,7 +2,7 @@ const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMore-button');
 
 const maxRecords = 1292
-const limit = prompt('Quantos pokemons deseja ver?')
+const limit = 8
 let offset = 0
 
 
